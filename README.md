@@ -9,7 +9,7 @@ To make a program that achieves all of these qualities, utilizing and naming cle
 
 # How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
 
-First, you need to have the knowledge of at least the basics of the coding needed for the project, that'll give you a basis to research he more intricate details needed. Next, you need to be able to interpret and understand what the client is requesting and then envision how to incorporate it into a running program. I had limited knowledge of using a database to make interactive tables and graphs. These were new skills that I nejoyed learning. Databases are a huge part of the computer science world because information/data is the key to any company's success.
+First, you need to have the knowledge of at least the basics of the coding needed for the project, that'll give you a basis to research the more intricate details needed. Next, you need to be able to interpret and understand what the client is requesting and then envision how to incorporate it into a running program. I had limited knowledge of using a database to make interactive tables and graphs. These were new skills that I nejoyed learning. Databases are a huge part of the computer science world because information/data is the key to any company's success.
 
 
 
