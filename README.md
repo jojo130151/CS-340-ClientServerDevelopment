@@ -3,7 +3,7 @@
 
 # How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
 
-To make a program that achieves all of these qualities, utilizing and naming clearly functions is important. For the CRUD Python module, I have a function for each of the elements of CRUD, each labeled as such. I also have an extra function for R that just reads one entry instead of multiple. Havinf this clear Read functon that reads multiple entries is what the dashboard widgets used to get the data from the collection. Many other dashboards could be created to utilize this CRUD file. In addition, this CRUD file can be altered to access any collection, not just the animals collection.
+To make a program that achieves all of these qualities, utilizing and naming clearly functions is important. For the CRUD Python module, I have a function for each of the elements of CRUD, each labeled as such. I also have an extra function for R that just reads one entry instead of multiple. Having this clear Read functon that reads multiple entries is what the dashboard widgets used to get the data from the collection. Many other dashboards could be created to utilize this CRUD file. In addition, this CRUD file can be altered to access any collection, not just the animals collection.
 
 
 
